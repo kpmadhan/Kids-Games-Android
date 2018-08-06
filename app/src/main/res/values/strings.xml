@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Touch Feel Kids Game</string>
+
+    <string name="blue_bird">Blue Bird - Twitter</string>
+    <string name="green_frog">Green Frog - Pond</string>
+    <string name="white_cow">Milking Cow - Barn</string>
+
+</resources>

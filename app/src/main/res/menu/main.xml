@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity" >
+
+    <item android:id="@+id/blue_bird"
+        app:showAsAction="never"
+        android:title="@string/blue_bird" />
+    <item android:id="@+id/green_frog"
+        app:showAsAction="never"
+        android:title="@string/green_frog" />
+    <item android:id="@+id/white_cow"
+        app:showAsAction="never"
+        android:title="@string/white_cow" />
+
+</menu>
